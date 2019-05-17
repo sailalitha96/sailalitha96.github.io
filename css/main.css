@@ -41,3 +41,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+p{font-size: 1.25em; line-height: 1.2em; color:#fff; font-weight: 200; text-align:justify;}
+p2{font-size: 1.0em; line-height: 0.9em; color:#fff; font-weight: 200 ; text-align: justify; margin-right: 15px}
+
