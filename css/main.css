@@ -63,7 +63,7 @@ body {
   font-family: "Lato", sans-serif;
   color: #fff;
 /*   background: #322f30; */
-  background: #2F4F4F;
+  background: #000000;
   -webkit-font-smoothing: antialiased;
   margin: 10px auto; width: 70%;
 }
@@ -71,7 +71,7 @@ body {
 a {
   text-decoration: none;
 /*   color: #fff; */
-   color : #2F4F4F;
+   color : #000000;
 }
 
 /* a.right
@@ -302,7 +302,7 @@ img {
   background-color: #322f30;
 }
 .fa-github:hover {
-     background-color: #2F4F4F ;
+     background-color: #000000 ;
 /*   background-color: #01FF70 ; */
 }
 
