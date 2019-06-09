@@ -63,7 +63,7 @@ body {
   font-family: "Lato", sans-serif;
   color: #fff;
 /*   background: #322f30; */
-  background: #696969;
+  background: #2F4F4F;
   -webkit-font-smoothing: antialiased;
   margin: 10px auto; width: 70%;
 }
@@ -71,7 +71,7 @@ body {
 a {
   text-decoration: none;
 /*   color: #fff; */
-   color : #696969;
+   color : #2F4F4F;
 }
 
 /* a.right
