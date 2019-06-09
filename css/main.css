@@ -207,6 +207,13 @@ img {
     height: 100%;
     width: auto;
 }
+imgprof {
+    display: inline;
+    margin-right: auto;
+    margin-left:auto;
+    height: 100%;
+    width: auto;
+}
 
 /*.fa-facebook {
   padding: 10px 14px;
