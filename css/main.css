@@ -62,14 +62,16 @@ p2{font-size: 1.0em; line-height: 0.9em; color:#fff; font-weight: 200 ; text-ali
 body {
   font-family: "Lato", sans-serif;
   color: #fff;
-  background: #322f30;
+/*   background: #322f30; */
+  background: #696969;
   -webkit-font-smoothing: antialiased;
   margin: 10px auto; width: 70%;
 }
 
 a {
   text-decoration: none;
-  color: #fff;
+/*   color: #fff; */
+   color : #696969;
 }
 
 /* a.right
