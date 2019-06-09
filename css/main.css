@@ -207,7 +207,8 @@ img {
     height: 100%;
     width: auto;
 }
-imgprof {
+
+.imgprof {
     display: inline;
     margin-right: auto;
     margin-left:auto;
