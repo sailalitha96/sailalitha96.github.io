@@ -211,10 +211,9 @@ img {
 .imgprof {
     width: 200px;
     height: 200px;
-    display: inline;
+    
     margin-right: auto;
     margin-left:auto;
-    width: auto;
 }
 
 /*.fa-facebook {
