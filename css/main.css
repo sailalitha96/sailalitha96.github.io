@@ -211,7 +211,8 @@ img {
 .imgprof {
     width: 200px;
     height: 200px;
-    
+     text-align:center;
+    display:block;
     margin-right: auto;
     margin-left:auto;
 }
